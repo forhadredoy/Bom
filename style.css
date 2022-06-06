@@ -1,0 +1,35 @@
+/* body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+ 
+div{
+    color:rgb(180, 180, 180);
+    font-weight: bold;
+    font-size: 50px;
+    background: rgb(0, 0, 0);
+    width:400px;
+    height:400px;
+    right:0;
+    left:0;
+    bottom:0;
+    top:0;
+    margin:auto;
+
+}
+div:hover{
+    background: rgb(6, 255, 255);
+    color:black
+} */
+body{
+    text-align: center;
+}
+button{
+    background: red;
+    padding:20px;
+    margin-top: 40px;
+    border-radius:10px;
+    cursor: pointer;
+}
+
